@@ -11,7 +11,7 @@ This workshop will start with an introductory presentation on conducting effecti
 | Time               | Session                                                                 |
 |--------------------|------------------------------------------------------------------------|
 | 9:45am - 10:00am  | Registration                                                           |
-| 10:00am - 11:00am | Introduction Presentation [Download links for [pdf](https://raw.githubusercontent.com/EleanorSC/getting-to-grips-with-git/main/getting_to_grips_with_git.pdf) |
+| 10:00am - 11:00am | Introduction Presentation [Download links for [pdf](https://raw.githubusercontent.com/EleanorSC/getting-to-grips-with-git/main/getting_to_grips_with_git.pdf)]|
 | 11:00am - 11:30am | Break (free tea/coffee/snacks available)                               |
 | 11:30am - 12:30pm | [Practical Session](practical_session)                                |
 
